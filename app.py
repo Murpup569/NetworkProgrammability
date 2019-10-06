@@ -13,7 +13,7 @@ on the network devices before hand.
 """
 
 __author__ = "Ryan Murray"
-__version__ = "1.3"
+__version__ = "2.0"
 __maintainer__ = "Ryan Murray"
 __email__ = "ryan.murray.570@gmail.com"
 __status__ = "Prototype"
